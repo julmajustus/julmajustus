@@ -1,16 +1,12 @@
-## Hi there 👋
+```text
+  __  __                    _   _           _____          _      _
+ |  \/  |                  | | | |         / ____|        | |    | |
+ | \  / | _____   _____  __| | | |_ ___   | |     ___   __| | ___| |__   ___ _ __ __ _
+ | |\/| |/ _ \ \ / / _ \/ _` | | __/ _ \  | |    / _ \ / _` |/ _ \ '_ \ / _ \ '__/ _` |
+ | |  | | (_) \ V /  __/ (_| | | || (_) | | |___| (_) | (_| |  __/ |_) |  __/ | | (_| |
+ |_|  |_|\___/ \_/ \___|\__,_|  \__\___/   \_____\___/ \__,_|\___|_.__/ \___|_|  \__, |
+                                                                                  __/ |
+                                                                                 |___/
+```
 
-<!--
-**julmajustus/julmajustus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[https://codeberg.org/julmajustus/julmajustus](https://codeberg.org/julmajustus/julmajustus)

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1002px" height="642px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 100%;
+size-adjust: 100%;
+}
+.field {fill: #b4a1db;}
+.text {fill: #c9d1d9;}
+text, tspan {white-space: pre;}
+</style>
+<rect x="0" y="0" width="1002px" height="642px" fill="#6dccd1"/>
+<rect x="1" y="1" width="1000px" height="640px" fill="#161b22"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30">        @@@@                            @@@@     </tspan>
+<tspan x="15" y="50">        @@@@@@@@         @@         @@@@@@@@     </tspan>
+<tspan x="15" y="70">        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+<tspan x="15" y="90">        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+<tspan x="15" y="110">       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </tspan>
+<tspan x="15" y="130">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+<tspan x="15" y="150">     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   </tspan>
+<tspan x="15" y="170">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+<tspan x="15" y="190">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+<tspan x="15" y="210">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+<tspan x="15" y="230">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+<tspan x="15" y="250">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+<tspan x="15" y="270">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+<tspan x="15" y="290">     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+<tspan x="15" y="310">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   </tspan>
+<tspan x="15" y="330">       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+<tspan x="15" y="350">        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      </tspan>
+<tspan x="15" y="370">           @@@@@@@@@@@@@@@@@@@@@@@@@@@@         </tspan>
+<tspan x="15" y="390"> @@@@@           @@@@@@@@@@@@@@@@               </tspan>
+<tspan x="15" y="410">   @@@@           @@@@@@@@@@@@@@@               </tspan>
+<tspan x="15" y="430">     @@@@        @@@@@@@@@@@@@@@@               </tspan>
+<tspan x="15" y="450">      @@@@@@@@@@@@@@@@@@@@@@@@@@@               </tspan>
+<tspan x="15" y="470">       @@@@@@@@@@@@@@@@@@@@@@@@@@               </tspan>
+<tspan x="15" y="490">         @@@@@@@@@@@@@@@@@@@@@@@@               </tspan>
+<tspan x="15" y="510">                 @@@@@@@@@@@@@@@@               </tspan>
+<tspan x="15" y="530">                 @@@@@@@@@@@@@@@@               </tspan>
+<tspan x="15" y="550">                 @@@@@@@@@@@@@@@@               </tspan>
+<tspan x="15" y="570">                @@@@@@@@@@@@@@@@@@@             </tspan>
+<tspan x="490" y="30" class="field">julmajustus</tspan><tspan class="text">@</tspan><tspan class="field">codeberg</tspan>
+<tspan x="490" y="50" class="field"></tspan><tspan class="text">------------------</tspan>
+<tspan x="490" y="70" class="field">OS</tspan><tspan class="text">: Gentoo, Debian, openSUSE, Arch</tspan>
+<tspan x="490" y="90" class="field">WM</tspan><tspan class="text">: dwl</tspan>
+<tspan x="490" y="110" class="field">Languages</tspan><tspan class="text">: C, C++, Python, Bash, AWK</tspan>
+<tspan x="490" y="130" class="field">IDE</tspan><tspan class="text">: vim</tspan>
+<tspan x="490" y="150" class="field">   </tspan>
+<tspan x="490" y="170" class="field">Bio</tspan>
+<tspan x="490" y="190" class="field"></tspan><tspan class="text">------------------</tspan>
+<tspan x="490" y="210" class="field"></tspan><tspan class="text">Linux enthusiast since the early 2000s.</tspan>
+<tspan x="490" y="230" class="field"></tspan><tspan class="text">Interests: cybersecurity,</tspan>
+<tspan x="490" y="250" class="field"></tspan><tspan class="text">low-level programming languages,</tspan>
+<tspan x="490" y="270" class="field"></tspan><tspan class="text">kernel tuning and hardware overclocking.</tspan>
+<tspan x="490" y="290" class="field"></tspan><tspan class="text">42 Alumni from Hive Helsinki.</tspan>
+<tspan x="490" y="310" class="field"></tspan><tspan class="text">   </tspan>
+<tspan x="490" y="330" class="field">Contact</tspan>
+<tspan x="490" y="350" class="field"></tspan><tspan class="text">------------------</tspan>
+<tspan x="490" y="370" class="field">Email</tspan><tspan class="text">: julmajustus@tutanota.com</tspan>
+<tspan x="490" y="390" class="field">IRC</tspan><tspan class="text">: jff@LiberaChat</tspan>
+<tspan x="490" y="410" class="field">Discord</tspan><tspan class="text">: julmajustus</tspan>
+<tspan x="490" y="430" class="field"></tspan><tspan class="text">   </tspan>
+<tspan x="490" y="450" class="field">Codeberg Stats</tspan>
+<tspan x="490" y="470" class="field">Repos</tspan><tspan class="text">: <!-- REPOS_PLACEHOLDER -->38<!-- REPOS_PLACEHOLDER --></tspan>
+<tspan x="490" y="490" class="field">Contributions</tspan><tspan class="text">: <!-- CONTRIBUTIONS_PLACEHOLDER -->137<!-- CONTRIBUTIONS_PLACEHOLDER --></tspan>
+<tspan x="490" y="510" class="field">Pull requests</tspan><tspan class="text">: <!-- PR_PLACEHOLDER -->54<!-- PR_PLACEHOLDER --></tspan>
+<tspan x="490" y="530" class="field">Stars</tspan><tspan class="text">: <!-- STARS_PLACEHOLDER -->102<!-- STARS_PLACEHOLDER --></tspan>
+<tspan x="490" y="550" class="field">Followers</tspan><tspan class="text">: <!-- FOLLOWERS_PLACEHOLDER -->30<!-- FOLLOWERS_PLACEHOLDER --></tspan>
+<tspan x="490" y="570" class="field">Profile Views</tspan><tspan class="text">: <!-- PV_PLACEHOLDER -->3415<!-- PV_PLACEHOLDER --></tspan>
+<tspan x="15" y="615" font-size="20" fill="#6dccd1">codeberg.org/julmajustus</tspan><tspan font-size="20" fill="#2ebc57"> main > </tspan><tspan font-size="20" fill="#c9d1d9" fill-opacity="1"><animate attributeName="fill-opacity" from="1" to="0" dur="1.3s" begin="0s" calcMode="discrete" repeatCount="indefinite" />█</tspan>
+</text>
+<g stroke="#aa0000" stroke-width="13" stroke-linecap="round">
+  <line x1="150" y1="150" x2="205" y2="245"/>
+  <line x1="205" y1="150" x2="150" y2="245"/>
+
+  <line x1="285" y1="150" x2="340" y2="245"/>
+  <line x1="340" y1="150" x2="285" y2="245"/>
+</g>
+</svg>

@@ -10,7 +10,7 @@
 ```
 <a href="https://codeberg.org/julmajustus/julmajustus">
   <picture>
-    <img alt="Github profile readme" src="https://codeberg.org/julmajustus/julmajustus/raw/branch/main/readme.svg?raw=true">
+    <img alt="Github profile readme" src="readme.svg?raw=true">
   </picture>
 </a>
 

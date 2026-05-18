@@ -1,83 +1,280 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1002px" height="642px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,'Courier New',Courier,monospace" width="1002px" height="642px" font-size="16px">
+<defs>
 <style>
 @font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
-font-display: swap;
--webkit-size-adjust: 100%;
-size-adjust: 100%;
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 100%;
 }
-.field {fill: #b4a1db;}
-.text {fill: #c9d1d9;}
-text, tspan {white-space: pre;}
-</style>
-<rect x="0" y="0" width="1002px" height="642px" fill="#6dccd1"/>
-<rect x="1" y="1" width="1000px" height="640px" fill="#161b22"/>
-<text x="15" y="30" fill="#c9d1d9">
-<tspan x="15" y="30">        @@@@                            @@@@     </tspan>
-<tspan x="15" y="50">        @@@@@@@@         @@         @@@@@@@@     </tspan>
-<tspan x="15" y="70">        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
-<tspan x="15" y="90">        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
-<tspan x="15" y="110">       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </tspan>
-<tspan x="15" y="130">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
-<tspan x="15" y="150">     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   </tspan>
-<tspan x="15" y="170">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
-<tspan x="15" y="190">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
-<tspan x="15" y="210">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
-<tspan x="15" y="230">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
-<tspan x="15" y="250">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
-<tspan x="15" y="270">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
-<tspan x="15" y="290">     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
-<tspan x="15" y="310">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   </tspan>
-<tspan x="15" y="330">       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
-<tspan x="15" y="350">        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      </tspan>
-<tspan x="15" y="370">           @@@@@@@@@@@@@@@@@@@@@@@@@@@@         </tspan>
-<tspan x="15" y="390"> @@@@@           @@@@@@@@@@@@@@@@               </tspan>
-<tspan x="15" y="410">   @@@@           @@@@@@@@@@@@@@@               </tspan>
-<tspan x="15" y="430">     @@@@        @@@@@@@@@@@@@@@@               </tspan>
-<tspan x="15" y="450">      @@@@@@@@@@@@@@@@@@@@@@@@@@@               </tspan>
-<tspan x="15" y="470">       @@@@@@@@@@@@@@@@@@@@@@@@@@               </tspan>
-<tspan x="15" y="490">         @@@@@@@@@@@@@@@@@@@@@@@@               </tspan>
-<tspan x="15" y="510">                 @@@@@@@@@@@@@@@@               </tspan>
-<tspan x="15" y="530">                 @@@@@@@@@@@@@@@@               </tspan>
-<tspan x="15" y="550">                 @@@@@@@@@@@@@@@@               </tspan>
-<tspan x="15" y="570">                @@@@@@@@@@@@@@@@@@@             </tspan>
-<tspan x="490" y="30" class="field">julmajustus</tspan><tspan class="text">@</tspan><tspan class="field">codeberg</tspan>
-<tspan x="490" y="50" class="field"></tspan><tspan class="text">------------------</tspan>
-<tspan x="490" y="70" class="field">OS</tspan><tspan class="text">: Gentoo, Debian, openSUSE, Arch</tspan>
-<tspan x="490" y="90" class="field">WM</tspan><tspan class="text">: dwl</tspan>
-<tspan x="490" y="110" class="field">Languages</tspan><tspan class="text">: C, C++, Python, Bash, AWK</tspan>
-<tspan x="490" y="130" class="field">IDE</tspan><tspan class="text">: vim</tspan>
-<tspan x="490" y="150" class="field">   </tspan>
-<tspan x="490" y="170" class="field">Bio</tspan>
-<tspan x="490" y="190" class="field"></tspan><tspan class="text">------------------</tspan>
-<tspan x="490" y="210" class="field"></tspan><tspan class="text">Linux enthusiast since the early 2000s.</tspan>
-<tspan x="490" y="230" class="field"></tspan><tspan class="text">Interests: cybersecurity,</tspan>
-<tspan x="490" y="250" class="field"></tspan><tspan class="text">low-level programming languages,</tspan>
-<tspan x="490" y="270" class="field"></tspan><tspan class="text">kernel tuning and hardware overclocking.</tspan>
-<tspan x="490" y="290" class="field"></tspan><tspan class="text">42 Alumni from Hive Helsinki.</tspan>
-<tspan x="490" y="310" class="field"></tspan><tspan class="text">   </tspan>
-<tspan x="490" y="330" class="field">Contact</tspan>
-<tspan x="490" y="350" class="field"></tspan><tspan class="text">------------------</tspan>
-<tspan x="490" y="370" class="field">Email</tspan><tspan class="text">: julmajustus@tutanota.com</tspan>
-<tspan x="490" y="390" class="field">IRC</tspan><tspan class="text">: jff@LiberaChat</tspan>
-<tspan x="490" y="410" class="field">Discord</tspan><tspan class="text">: julmajustus</tspan>
-<tspan x="490" y="430" class="field"></tspan><tspan class="text">   </tspan>
-<tspan x="490" y="450" class="field">Codeberg Stats</tspan>
-<tspan x="490" y="470" class="field">Repos</tspan><tspan class="text">: <!-- REPOS_PLACEHOLDER -->38<!-- REPOS_PLACEHOLDER --></tspan>
-<tspan x="490" y="490" class="field">Contributions</tspan><tspan class="text">: <!-- CONTRIBUTIONS_PLACEHOLDER -->137<!-- CONTRIBUTIONS_PLACEHOLDER --></tspan>
-<tspan x="490" y="510" class="field">Pull requests</tspan><tspan class="text">: <!-- PR_PLACEHOLDER -->54<!-- PR_PLACEHOLDER --></tspan>
-<tspan x="490" y="530" class="field">Stars</tspan><tspan class="text">: <!-- STARS_PLACEHOLDER -->102<!-- STARS_PLACEHOLDER --></tspan>
-<tspan x="490" y="550" class="field">Followers</tspan><tspan class="text">: <!-- FOLLOWERS_PLACEHOLDER -->30<!-- FOLLOWERS_PLACEHOLDER --></tspan>
-<tspan x="490" y="570" class="field">Profile Views</tspan><tspan class="text">: <!-- PV_PLACEHOLDER -->3415<!-- PV_PLACEHOLDER --></tspan>
-<tspan x="15" y="615" font-size="20" fill="#6dccd1">codeberg.org/julmajustus</tspan><tspan font-size="20" fill="#2ebc57"> main > </tspan><tspan font-size="20" fill="#c9d1d9" fill-opacity="1"><animate attributeName="fill-opacity" from="1" to="0" dur="1.3s" begin="0s" calcMode="discrete" repeatCount="indefinite" />█</tspan>
-</text>
-<g stroke="#aa0000" stroke-width="13" stroke-linecap="round">
-  <line x1="150" y1="150" x2="205" y2="245"/>
-  <line x1="205" y1="150" x2="150" y2="245"/>
+.field { fill: #F0A030; }
+.text  { fill: #B87010; }
+text, tspan { white-space: pre; }
 
-  <line x1="285" y1="150" x2="340" y2="245"/>
-  <line x1="340" y1="150" x2="285" y2="245"/>
-</g>
+@keyframes flicker {
+  0%,   85%   { opacity: 1; }
+  86%          { opacity: 0.91; }
+  86.4%        { opacity: 1; }
+  91%          { opacity: 1; }
+  91.6%        { opacity: 0.86; }
+  92%          { opacity: 0.97; }
+  92.4%        { opacity: 1; }
+  96.5%        { opacity: 1; }
+  96.8%        { opacity: 0.93; }
+  97%          { opacity: 1; }
+}
+#flicker-group { animation: flicker 11s ease-in-out infinite; }
+</style>
+
+<!-- Phosphor amber glow -->
+<filter id="glow" x="-35%" y="-35%" width="170%" height="170%" color-interpolation-filters="sRGB">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="2.2" result="b1"/>
+  <feGaussianBlur in="SourceGraphic" stdDeviation="5"   result="b2"/>
+  <feMerge>
+    <feMergeNode in="b2"/>
+    <feMergeNode in="b1"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<!-- Stronger glow for burn-in X marks -->
+<filter id="glow-x" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="4"  result="b1"/>
+  <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="b2"/>
+  <feMerge>
+    <feMergeNode in="b2"/>
+    <feMergeNode in="b1"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<!-- Rust / oxidation on the bezel -->
+<filter id="rust" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+  <feTurbulence type="fractalNoise" baseFrequency="0.028 0.055" numOctaves="5" seed="17" result="nz"/>
+  <feColorMatrix type="matrix"
+    values="1.4  0    0    0    0.28
+            0    0.45 0    0    0.09
+            0    0    0    0    0
+            0    0    0    0.5 -0.08"
+    in="nz" result="rc"/>
+  <feComposite in="rc" in2="SourceGraphic" operator="in"/>
+</filter>
+
+<!-- Fine grain / grime on screen glass -->
+<filter id="grain" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+  <feTurbulence type="fractalNoise" baseFrequency="0.72 0.9" numOctaves="2" seed="5" result="nz"/>
+  <feColorMatrix type="saturate" values="0" in="nz" result="gray"/>
+  <feBlend in="SourceGraphic" in2="gray" mode="soft-light" result="blend"/>
+  <feComponentTransfer in="blend">
+    <feFuncA type="linear" slope="0.07"/>
+  </feComponentTransfer>
+  <feComposite in2="SourceGraphic" operator="over"/>
+</filter>
+
+<!-- Ghost / phosphor afterimage blur -->
+<filter id="ghost" x="-5%" y="-5%" width="110%" height="110%">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="0.8"/>
+</filter>
+
+<!-- Scanlines pattern -->
+<pattern id="scanlines" x="0" y="0" width="1002" height="3" patternUnits="userSpaceOnUse">
+  <rect x="0" y="0" width="1002" height="1" fill="#000000" opacity="0.32"/>
+</pattern>
+
+<!-- CRT edge vignette -->
+<radialGradient id="vig" cx="50%" cy="50%" r="60%">
+  <stop offset="50%" stop-color="transparent"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.92"/>
+</radialGradient>
+
+<!-- Warm amber screen-centre glow -->
+<radialGradient id="scrBG" cx="50%" cy="46%" r="55%">
+  <stop offset="0%"   stop-color="#120900"/>
+  <stop offset="70%"  stop-color="#080500"/>
+  <stop offset="100%" stop-color="#030200"/>
+</radialGradient>
+
+<!-- Bezel surface (aged plastic / steel) -->
+<linearGradient id="bezel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%"   stop-color="#2e2410"/>
+  <stop offset="40%"  stop-color="#1c1408"/>
+  <stop offset="100%" stop-color="#0e0b04"/>
+</linearGradient>
+
+<!-- Scrolling CRT refresh band -->
+<linearGradient id="band" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%"   stop-color="transparent"/>
+  <stop offset="50%"  stop-color="#B87010" stop-opacity="0.09"/>
+  <stop offset="100%" stop-color="transparent"/>
+</linearGradient>
+
+<!-- Screen clip -->
+<clipPath id="scr">
+  <rect x="13" y="13" width="976" height="616" rx="4" ry="4"/>
+</clipPath>
+
+</defs>
+
+<!-- ═══════════════════════════════════
+     BEZEL  —  aged dark metal/plastic
+     ═══════════════════════════════════ -->
+<rect x="0" y="0" width="1002" height="642" fill="url(#bezel)"/>
+<!-- Rust texture overlay on bezel -->
+<rect x="0" y="0" width="1002" height="642" filter="url(#rust)" opacity="0.7"/>
+<!-- Surface scratches -->
+<line x1="48"  y1="4"   x2="88"  y2="7"   stroke="#3d2e12" stroke-width="0.5" opacity="0.5"/>
+<line x1="620" y1="635" x2="665" y2="637" stroke="#261c08" stroke-width="0.8" opacity="0.4"/>
+<line x1="210" y1="3"   x2="228" y2="5"   stroke="#2a1e08" stroke-width="0.5" opacity="0.55"/>
+<line x1="780" y1="3"   x2="800" y2="4"   stroke="#331f06" stroke-width="0.4" opacity="0.35"/>
+<line x1="140" y1="637" x2="155" y2="638" stroke="#2a1e08" stroke-width="0.6" opacity="0.4"/>
+<!-- Raised lip on bezel face edge -->
+<rect x="0"    y="0"   width="1002" height="2" fill="#3a2c10" opacity="0.5"/>
+<rect x="0"    y="640" width="1002" height="2" fill="#0a0703" opacity="0.8"/>
+<rect x="0"    y="0"   width="2"  height="642" fill="#3a2c10" opacity="0.4"/>
+<rect x="1000" y="0"   width="2"  height="642" fill="#0a0703" opacity="0.7"/>
+<!-- Corner screws (slotted hex) -->
+<circle cx="9"   cy="9"   r="5.5" fill="#0d0a04" stroke="#3a2c10" stroke-width="0.9"/>
+<line   x1="6"   y1="9"   x2="12"  y2="9"   stroke="#1e1608" stroke-width="0.8" stroke-linecap="round"/>
+<circle cx="993" cy="9"   r="5.5" fill="#0d0a04" stroke="#3a2c10" stroke-width="0.9"/>
+<line   x1="990" y1="9"   x2="996" y2="9"   stroke="#1e1608" stroke-width="0.8" stroke-linecap="round"/>
+<circle cx="9"   cy="633" r="5.5" fill="#0d0a04" stroke="#3a2c10" stroke-width="0.9"/>
+<line   x1="6"   y1="633" x2="12"  y2="633" stroke="#1e1608" stroke-width="0.8" stroke-linecap="round"/>
+<circle cx="993" cy="633" r="5.5" fill="#0d0a04" stroke="#3a2c10" stroke-width="0.9"/>
+<line   x1="990" y1="633" x2="996" y2="633" stroke="#1e1608" stroke-width="0.8" stroke-linecap="round"/>
+<!-- Manufacturer badge -->
+<rect x="422" y="621" width="158" height="15" fill="#130f05" rx="2" stroke="#2e2208" stroke-width="0.6"/>
+<text x="501" y="632" fill="#4a3818" font-size="8" text-anchor="middle" letter-spacing="3">DATATERM  Mk.61</text>
+<!-- Screen bezel inset rim (depth / depression) -->
+<rect x="10" y="10" width="982" height="622" fill="none" rx="3" stroke="#060401" stroke-width="4"/>
+<rect x="11" y="11" width="980" height="620" fill="none" rx="2" stroke="#2e220a" stroke-width="1.2"/>
+<rect x="12" y="12" width="978" height="618" fill="none" rx="2" stroke="#0a0805" stroke-width="0.8"/>
+
+<!-- ═══════════════════════════════════
+     SCREEN
+     ═══════════════════════════════════ -->
+<g clip-path="url(#scr)">
+
+  <!-- Screen background warm amber glow -->
+  <rect x="13" y="13" width="976" height="616" fill="url(#scrBG)"/>
+
+  <!-- Ghost / burn-in afterimage (phosphor persistence) -->
+  <g filter="url(#ghost)" opacity="0.14" fill="#F0A030">
+    <text x="15" y="30" font-family="ConsolasFallback,'Courier New',Courier,monospace" font-size="16px">
+      <tspan x="16" y="31">        @@@@                            @@@@     </tspan>
+      <tspan x="16" y="51">        @@@@@@@@         @@         @@@@@@@@     </tspan>
+      <tspan x="491" y="31">julmajustus@codeberg</tspan>
+      <tspan x="491" y="71">OS: Gentoo, Debian, openSUSE, Arch</tspan>
+    </text>
+  </g>
+
+  <!-- Main content — phosphor glow + flicker -->
+  <g id="flicker-group" filter="url(#glow)">
+
+    <text x="15" y="30" fill="#B87010">
+      <!-- ASCII @ art (left panel) -->
+      <tspan x="15" y="30" >        @@@@                            @@@@     </tspan>
+      <tspan x="15" y="50" >        @@@@@@@@         @@         @@@@@@@@     </tspan>
+      <tspan x="15" y="70" >        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+      <tspan x="15" y="90" >        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+      <tspan x="15" y="110">       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </tspan>
+      <tspan x="15" y="130">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+      <tspan x="15" y="150">     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   </tspan>
+      <tspan x="15" y="170">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+      <tspan x="15" y="190">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+      <tspan x="15" y="210">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+      <tspan x="15" y="230">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+      <tspan x="15" y="250">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+      <tspan x="15" y="270">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+      <tspan x="15" y="290">     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  </tspan>
+      <tspan x="15" y="310">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   </tspan>
+      <tspan x="15" y="330">       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+      <tspan x="15" y="350">        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      </tspan>
+      <tspan x="15" y="370">           @@@@@@@@@@@@@@@@@@@@@@@@@@@@         </tspan>
+      <tspan x="15" y="390"> @@@@@           @@@@@@@@@@@@@@@@               </tspan>
+      <tspan x="15" y="410">   @@@@           @@@@@@@@@@@@@@@               </tspan>
+      <tspan x="15" y="430">     @@@@        @@@@@@@@@@@@@@@@               </tspan>
+      <tspan x="15" y="450">      @@@@@@@@@@@@@@@@@@@@@@@@@@@               </tspan>
+      <tspan x="15" y="470">       @@@@@@@@@@@@@@@@@@@@@@@@@@               </tspan>
+      <tspan x="15" y="490">         @@@@@@@@@@@@@@@@@@@@@@@@               </tspan>
+      <tspan x="15" y="510">                 @@@@@@@@@@@@@@@@               </tspan>
+      <tspan x="15" y="530">                 @@@@@@@@@@@@@@@@               </tspan>
+      <tspan x="15" y="550">                 @@@@@@@@@@@@@@@@               </tspan>
+      <tspan x="15" y="570">                @@@@@@@@@@@@@@@@@@@             </tspan>
+      <!-- Info panel (right) -->
+      <tspan x="490" y="30"  class="field">julmajustus</tspan><tspan class="text">@</tspan><tspan class="field">codeberg</tspan>
+      <tspan x="490" y="50"  class="field"></tspan><tspan class="text">------------------</tspan>
+      <tspan x="490" y="70"  class="field">OS</tspan><tspan class="text">: Gentoo, Debian, openSUSE, Arch</tspan>
+      <tspan x="490" y="90"  class="field">WM</tspan><tspan class="text">: dwl</tspan>
+      <tspan x="490" y="110" class="field">Languages</tspan><tspan class="text">: C, C++, Python, Bash, AWK</tspan>
+      <tspan x="490" y="130" class="field">IDE</tspan><tspan class="text">: vim</tspan>
+      <tspan x="490" y="150" class="field">   </tspan>
+      <tspan x="490" y="170" class="field">Bio</tspan>
+      <tspan x="490" y="190" class="field"></tspan><tspan class="text">------------------</tspan>
+      <tspan x="490" y="210" class="field"></tspan><tspan class="text">Linux enthusiast since the early 2000s.</tspan>
+      <tspan x="490" y="230" class="field"></tspan><tspan class="text">Interests: cybersecurity,</tspan>
+      <tspan x="490" y="250" class="field"></tspan><tspan class="text">low-level programming languages,</tspan>
+      <tspan x="490" y="270" class="field"></tspan><tspan class="text">kernel tuning and hardware overclocking.</tspan>
+      <tspan x="490" y="290" class="field"></tspan><tspan class="text">42 Alumni from Hive Helsinki.</tspan>
+      <tspan x="490" y="310" class="field"></tspan><tspan class="text">   </tspan>
+      <tspan x="490" y="330" class="field">Contact</tspan>
+      <tspan x="490" y="350" class="field"></tspan><tspan class="text">------------------</tspan>
+      <tspan x="490" y="370" class="field">Email</tspan><tspan class="text">: julmajustus@tutanota.com</tspan>
+      <tspan x="490" y="390" class="field">IRC</tspan><tspan class="text">: jff@LiberaChat</tspan>
+      <tspan x="490" y="410" class="field">Discord</tspan><tspan class="text">: julmajustus</tspan>
+      <tspan x="490" y="430" class="field"></tspan><tspan class="text">   </tspan>
+      <tspan x="490" y="450" class="field">Codeberg Stats</tspan>
+      <tspan x="490" y="470" class="field">Repos</tspan><tspan class="text">: <!-- REPOS_PLACEHOLDER -->38<!-- REPOS_PLACEHOLDER --></tspan>
+      <tspan x="490" y="490" class="field">Contributions</tspan><tspan class="text">: <!-- CONTRIBUTIONS_PLACEHOLDER -->137<!-- CONTRIBUTIONS_PLACEHOLDER --></tspan>
+      <tspan x="490" y="510" class="field">Pull requests</tspan><tspan class="text">: <!-- PR_PLACEHOLDER -->54<!-- PR_PLACEHOLDER --></tspan>
+      <tspan x="490" y="530" class="field">Stars</tspan><tspan class="text">: <!-- STARS_PLACEHOLDER -->102<!-- STARS_PLACEHOLDER --></tspan>
+      <tspan x="490" y="550" class="field">Followers</tspan><tspan class="text">: <!-- FOLLOWERS_PLACEHOLDER -->30<!-- FOLLOWERS_PLACEHOLDER --></tspan>
+      <tspan x="490" y="570" class="field">Profile Views</tspan><tspan class="text">: <!-- PV_PLACEHOLDER -->3415<!-- PV_PLACEHOLDER --></tspan>
+      <!-- Prompt line -->
+      <tspan x="15" y="615" font-size="20" fill="#D4900A">codeberg.org/julmajustus</tspan><tspan font-size="20" fill="#F0A030"> main &gt; </tspan><tspan font-size="20" fill="#FFBA08" fill-opacity="1"><animate attributeName="fill-opacity" from="1" to="0" dur="1.3s" begin="0s" calcMode="discrete" repeatCount="indefinite"/>&#x2588;</tspan>
+    </text>
+
+    <!-- Burn-in X marks — phosphor-scorched red-orange -->
+    <g stroke="#CC3300" stroke-width="13" stroke-linecap="round" opacity="0.82" filter="url(#glow-x)">
+      <line x1="150" y1="150" x2="205" y2="245"/>
+      <line x1="205" y1="150" x2="150" y2="245"/>
+      <line x1="285" y1="150" x2="340" y2="245"/>
+      <line x1="340" y1="150" x2="285" y2="245"/>
+    </g>
+
+  </g><!-- /flicker-group -->
+
+  <!-- Scanlines (above content) -->
+  <rect x="13" y="13" width="976" height="616" fill="url(#scanlines)"/>
+
+  <!-- CRT edge vignette -->
+  <rect x="13" y="13" width="976" height="616" fill="url(#vig)"/>
+
+  <!-- Scrolling CRT refresh band -->
+  <rect x="13" width="976" height="100" fill="url(#band)">
+    <animate attributeName="y" from="-100" to="730" dur="22s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Dust / grime on screen glass -->
+  <rect x="13" y="13" width="976" height="616" filter="url(#grain)" fill="#B87010" opacity="0.04"/>
+
+  <!-- Occasional horizontal jitter line -->
+  <rect x="13" width="976" height="2" fill="#B87010">
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0.14;0;0;0;0;0;0;0;0;0;0.09;0;0;0" dur="17s" repeatCount="indefinite"/>
+    <animate attributeName="y"       values="300;300;300;300;300;300;420;420;420;420;420;420;420;420;420;420;180;180;180;180" dur="17s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Stuck / dead pixels -->
+  <rect x="237" y="188" width="2" height="1" fill="#FF6600" opacity="0.75"/>
+  <rect x="569" y="341" width="1" height="2" fill="#FF4400" opacity="0.55"/>
+  <rect x="891" y="157" width="2" height="2" fill="#FFAA00" opacity="0.45"/>
+  <rect x="124" y="447" width="1" height="1" fill="#FF5500" opacity="0.65"/>
+  <rect x="757" y="89"  width="2" height="1" fill="#FF6600" opacity="0.40"/>
+
+</g><!-- /screen clip -->
+
+<!-- Screen glass inner edge highlight -->
+<rect x="13" y="13" width="976" height="616" fill="none" rx="4" stroke="#1c1508" stroke-width="2"/>
+<rect x="14" y="14" width="974" height="614" fill="none" rx="3" stroke="#0a0703" stroke-width="1"/>
+
 </svg>

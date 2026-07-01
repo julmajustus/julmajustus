@@ -8,6 +8,7 @@
                                                                                   __/ |
                                                                                  |___/
 ```
+![](https://julmajustus.goatcounter.com/count?p=/github-profile)
 <a href="https://codeberg.org/julmajustus/julmajustus">
   <picture>
     <img alt="Github profile readme" src="readme.svg?raw=true">
